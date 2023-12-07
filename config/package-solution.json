@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ant-design-step-client-side-solution",
+    "id": "957d609c-f2e3-4893-8c95-ff88c3cb0fa3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ant-design-step description"
+      },
+      "longDescription": {
+        "default": "ant-design-step description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ant-design-step Feature",
+        "description": "The feature that activates elements of the ant-design-step solution.",
+        "id": "14e96f6f-ee85-44c3-aa33-7c6430b2be74",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ant-design-step.sppkg"
+  }
+}
